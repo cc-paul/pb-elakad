@@ -174,7 +174,7 @@
         crossorigin=""></script>
         <script src="../program_assets/js/web_functions/mapbox_directions.js?random=<?php echo uniqid(); ?>"></script>
 		  <script src='https://unpkg.com/@turf/turf@6/turf.min.js'></script>
-		  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmfVB9M_z_Uu7aW-Nm89gY1owbcGMp3-0"></script>
+		  <script src="https://maps.googleapis.com/maps/api/js?key="></script>
 		  <script src="https://richardcornish.github.io/jquery-geolocate/js/jquery-geolocate.min.js"></script>
     </body>
 </html>
